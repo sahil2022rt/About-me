@@ -1,18 +1,109 @@
-# 💫 About Me:
-Sahil Telote is an aspiring Cloud Security and Cybersecurity professional with strong foundational skills in SOC operations, cloud security, and incident response. He holds multiple industry-recognized certifications, including ISO/IEC 27001 Lead Auditor, Google Cloud Cybersecurity Certificate, and Certified Threat Intelligence & Governance Analyst (CTIGA). Additionally certified by Cisco and Red Team Leaders, he demonstrates expertise in compliance, risk management, and threat intelligence. With hands-on experience in AWS, Google Cloud, and Python-based security projects, he is well-prepared for entry-level roles in cybersecurity and security operations.<br>
+<!-- Header -->
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║            SAHIL TELOTE  ·  CLOUD SECURITY & SOC            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sahileblue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_telote_27) [![LinkedIn](](https://www.linkedin.com/in/sahil-telote-2406b733b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/credly.com/users/sahil-telote) [![X](https://sahil2022rt.github.io/)](https://x.com/sahule27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahiltelote744@gmail.com) 
+### `// hello, world — I'm Sahil 👋`
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sahil2022rt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sahil2022rt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahil2022rt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Aspiring Cloud Security & Cybersecurity Professional**  
+SOC Operations · Incident Response · Cloud Security · Threat Intelligence
+
+<br>
+
+<!-- Social Links — only the 4 you provided -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://sahil2022rt.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-telote-2406b733b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil2022rt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahiltelote744@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sahil2022rt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```python
+sahil = {
+    "role"       : "Cloud Security & Cybersecurity Professional (Entry-Level)",
+    "location"   : "Pune, India 🇮🇳",
+    "focus"      : ["SOC Operations", "Cloud Security", "Incident Response", "Threat Intel"],
+    "clouds"     : ["AWS ☁️", "Google Cloud ☁️"],
+    "languages"  : ["Python 🐍", "SQL", "HTML5", "CSS3"],
+    "status"     : "Open to opportunities ✅"
+}
+```
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer |
+|---|---|
+| 🔒 ISO/IEC 27001 Lead Auditor | PECB |
+| ☁️ Google Cloud Cybersecurity Certificate | Google |
+| 🔍 Certified Threat Intelligence & Governance Analyst (CTIGA) | — |
+| 🌐 Networking & Security | Cisco |
+| ⚔️ Red Team Foundations | Red Team Leaders |
+
+---
+
+## 💻 Tech Stack
+
+**Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Data & Databases**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+
+**Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=sahil2022rt&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![](https://streak-stats.demolab.com/?user=sahil2022rt&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahil2022rt&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building Python-based security tools and cloud security projects
+- 📚 Deepening expertise in SOC workflows and threat intelligence
+- 🤝 Open to entry-level roles in **Cybersecurity**, **Cloud Security**, or **SOC Operations**
+- 📍 Based in Pune, India
+
+---
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=sahil2022rt&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/sahil2022rt)
+
+```
+"Security is not a product, but a process." — Bruce Schneier
+```
+
+</div>
